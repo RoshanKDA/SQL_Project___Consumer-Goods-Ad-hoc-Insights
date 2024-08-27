@@ -5,7 +5,7 @@
 
 ---
 
-![Project Image](Image_Link) <!-- Replace with the actual image link if available -->
+Image
 
 **Domain:** Consumer Goods  
 **Function:** Executive Management  
