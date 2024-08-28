@@ -4,6 +4,11 @@
 ### Project Name: Providing Insights to Management in the Consumer Goods Domain
 
 ---
+Created by: Roshan A. Kalmegh
+Data Analyst
+[LinkedIn Profile](Link to your LinkedIn profile)
+
+---
 
 Image
 
