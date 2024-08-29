@@ -6,7 +6,7 @@
 ---
 ### Created by: Roshan A. Kalmegh<br>
 ### Data Analyst<br>
-[LinkedIn Profile](Link to your LinkedIn profile)
+[LinkedIn Profile](https://www.linkedin.com/in/roshan-kalmegh-2494b8251/)
 
 ---
 
