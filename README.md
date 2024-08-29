@@ -2,16 +2,14 @@
 # Resume Project Challenge 4
 
 ### Project Name: Providing Insights to Management in the Consumer Goods Domain
+**Domain:** Consumer Goods  
+**Function:** Executive Management  
 
 ---
 ### Created by: Roshan A. Kalmegh<br>
 ### Data Analyst<br>
 [LinkedIn Profile](https://www.linkedin.com/in/roshan-kalmegh-2494b8251/)
 
----
-
-**Domain:** Consumer Goods  
-**Function:** Executive Management  
 
 ---
 
