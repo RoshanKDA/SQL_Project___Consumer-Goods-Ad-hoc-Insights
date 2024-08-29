@@ -41,7 +41,8 @@ This project significantly enhanced my SQL skills and provided practical experie
 ## Links
 
 - **[GitHub Repository](https://github.com/RoshanKDA/SQL_Project___Consumer-Goods-Ad-hoc-Insights)** 
-- **[Project Presentation](https://github.com/RoshanKDA/SQL_Project___Consumer-Goods-Ad-hoc-Insights/blob/main/Consumer_Goods_Insight_Presentation.pdf)** 
+- **[Project Presentation](https://github.com/RoshanKDA/SQL_Project___Consumer-Goods-Ad-hoc-Insights/blob/main/Consumer_Goods_Insight_Presentation.pdf)**
+- **[Ad Hoc Request Solution](https://github.com/RoshanKDA/SQL_Project___Consumer-Goods-Ad-hoc-Insights/blob/main/Ad_hoc_Request_Solution.sql)**
 
 ---
 
