@@ -10,8 +10,6 @@
 
 ---
 
-Image
-
 **Domain:** Consumer Goods  
 **Function:** Executive Management  
 
